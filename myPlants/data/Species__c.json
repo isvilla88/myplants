@@ -1,0 +1,30 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef1"
+            },
+            "Descripcion__c": "Conocida por sus propiedades y aplicaciones",
+            "Ideal_Max_Temperature__c": 25,
+            "Image__c": "<img src=\"https://www.hogarmania.com/archivos/202006/caracteristicas-cuidados-aloe-vera-1280x720x80xX.jpg\" alt=\"Aloe Vera\" border=\"0\"/>",
+            "Location__c": "Indoors",
+            "Name": "Aloe Vera",
+            "Pulverization__c": false,
+            "Type__c": "Omamental"
+        },
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef2"
+            },
+            "Descripcion__c": "Prueba",
+            "Ideal_Max_Temperature__c": 22,
+            "Image__c": "<img src=\" \" alt=\"Flor rosa\" border=\"0\"/>",
+            "Location__c": "Indoors",
+            "Name": "Flor rosa",
+            "Pulverization__c": true,
+            "Type__c": "Omamental"
+        }
+    ]
+}
